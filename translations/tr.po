@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: Tiling Shell\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-27 11:13+0200\n"
-"PO-Revision-Date: 2025-08-10 22:20+0300\n"
+"PO-Revision-Date: 2025-08-10 22:38+0300\n"
 "Last-Translator: bywkgexmkiltxh <ascdasvcfasx@outlook.com>\n"
 "Language-Team: Turkish\n"
 "Language: tr\n"
@@ -583,7 +583,7 @@ msgstr ""
 
 #: dist/prefs.js:1574
 msgid "Open a new issue on"
-msgstr "Şurada yeni sorun aç:"
+msgstr "Şurada yeni sorun açın:"
 
 #: dist/prefs.js:1804 dist/prefs.js:1827
 msgid "New accelerator…"
